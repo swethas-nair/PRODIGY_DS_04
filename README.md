@@ -16,10 +16,10 @@ Data cleaning using Power Query
 
 Features
 
-Data Collection- The project uses a sample dataset available in Kaggle.com
+--> Data Collection- The project uses a sample dataset available in Kaggle.com
 
-Data Cleaning - Preprocess the collected data to remove unwanted and duplicate items
-
-Visualisation - Visualise the results using PowerBI to understand Sentiment trends over time. 
+--> Data Cleaning - Preprocess the collected data to remove unwanted and duplicate items
+ 
+--> Visualisation - Visualise the results using PowerBI to understand Sentiment trends over time. 
 
 
