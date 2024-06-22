@@ -3,7 +3,9 @@ Project Name:- Social Media sentiment analysis using PowerBI
 
 Introduction
 
-Social Media Sentiment Analysis is a project aimed at analyzing and interpreting the sentiment of posts on various social media platforms. This involves using natural language processing (NLP) techniques to determine whether the sentiment expressed in a piece of text is positive, negative, or neutral. Power BI is used to visualize the results for better understanding and insights.
+*  Social Media Sentiment Analysis is a project aimed at analyzing and interpreting the sentiment of posts on various social media platforms. 
+* This involves using natural language processing (NLP) techniques to determine whether the sentiment expressed in a piece of text is positive, negative, or neutral. 
+* Power BI is used to visualize the results for better understanding and insights.
 
 Tools Used
 
