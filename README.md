@@ -7,11 +7,11 @@ Social Media Sentiment Analysis is a project aimed at analyzing and interpreting
 
 Tools Used
 
-Sample Dataset from Kaggle.com
+i) Sample Dataset from Kaggle.com
 
-Visualisation using PowerBI
+ii) Visualisation using PowerBI
 
-Data cleaning using Power Query
+iii) Data cleaning using Power Query
 
 
 Features
